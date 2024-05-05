@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sueasueasuea/todo-list">
-    <img src="assets/to-do-list.svg" alt="Logo" width="80" height="80">
+    <img src="/src/assets/to-do-list.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Todo-List</h3>
@@ -44,6 +44,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Todo list Screen Shot](https://img5.pic.in.th/file/secure-sv1/Screenshot-2567-05-05-at-21.48.47.png)
@@ -54,25 +55,24 @@ This is to do list, an assingment for applying job.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![React][React.js]][React-url]
-* [![React redux][React-redux.com]][React-redux-url]
-* [![Redux toolkit][Redux-toolkit.com]][Redux-toolkit-url]
-* [![Redux persist][Redux-persist.com]][Redux-persist-url]
-* [![React hook form][React-hook-form.com]][React-hook-form-url]
-* [![Yup][Yup.com]][Yup-url]
-* [![MUI][Mui.com]][Mui-url]
-* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
+- [![React][React.js]][React-url]
+- [![React redux][React-redux.com]][React-redux-url]
+- [![Redux toolkit][Redux-toolkit.com]][Redux-toolkit-url]
+- [![Redux persist][Redux-persist.com]][Redux-persist-url]
+- [![React hook form][React-hook-form.com]][React-hook-form-url]
+- [![Yup][Yup.com]][Yup-url]
+- [![MUI][Mui.com]][Mui-url]
+- [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 ### Prerequisites
 
-* npm
+- npm
   ```sh
   npm install npm@latest -g
   ```
@@ -83,27 +83,27 @@ This section should list any major frameworks/libraries used to bootstrap your p
    ```sh
    git clone https://github.com/sueasueasuea/todo-list.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Run in localhost
+3. Run in localhost
    ```sh
    npm run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
-An to do list allow users to: 
+An to do list allow users to:
+
 - Add new to-do items with a title and optional description.
 - Mark existing to-do items as done or doing.
 - Delete to-do items.
-- Persist the to-do list data in local storage 
+- Persist the to-do list data in local storage
 - Implement filtering of to-do items (show all, completed, incomplete).
 
 <a href="https://sueasueasuea.github.io/todo-list/">View Demo</a>
@@ -119,6 +119,7 @@ See the [open issues](https://github.com/sueasueasuea/todo-list/issues) for a fu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -126,6 +127,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Siripol - siripol.work@gmail.com
@@ -135,16 +137,31 @@ Project Link: [https://github.com/sueasueasuea/todo-list](https://github.com/sue
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [GitHub Pages](https://pages.github.com)
-* [Conventional-commits](https://www.borntodev.com/2023/01/30/conventional-commits/)
-* [Vite](https://vitejs.dev/)
+- [GitHub Pages](https://pages.github.com)
+- [Conventional-commits](https://www.borntodev.com/2023/01/30/conventional-commits/)
+- [Vite](https://vitejs.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-
+[React-redux.com]: https://img.shields.io/badge/Redux%20Redux?style=for-the-badge&logo=redux&logoColor-764ABC
+[React-redux-url]: https://react-redux.js.org/
+[Redux-toolkit.com]: https://img.shields.io/badge/Redux%20toolkit?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-toolkit-url]: https://redux-toolkit.js.org/
+[Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-persist-url]: https://github.com/rt2zz/redux-persist
+[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form?style=for-the-badge&logo=reacthookform&logoColor-EC5990
+[React-hook-form-url]: https://react-hook-form.com/
+[Yup.com]: https://img.shields.io/badge/Yup?style=for-the-badge
+[Yup-url]: https://github.com/jquense/yup
+[Mui.com]: https://img.shields.io/badge/Mui?style=for-the-badge&logo=mui&logoColor-007FFF
+[Mui-url]: https://mui.com/
+[Tailwindcss.com]: https://img.shields.io/badge/Tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor-06B6D4
+[Tailwindcss-url]: https://tailwindcss.com/
