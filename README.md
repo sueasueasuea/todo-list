@@ -118,6 +118,23 @@ See the [open issues](https://github.com/sueasueasuea/todo-list/issues) for a fu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
 ## License
@@ -151,17 +168,17 @@ Project Link: [https://github.com/sueasueasuea/todo-list](https://github.com/sue
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[React-redux.com]: https://img.shields.io/badge/React%20Redux-000000?style=for-the-badge&logo=redux&logoColor-764ABC
+[React-redux.com]: https://img.shields.io/badge/React%20Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC
 [React-redux-url]: https://react-redux.js.org/
-[Redux-toolkit.com]: https://img.shields.io/badge/Redux%20toolkit-000000?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-toolkit.com]: https://img.shields.io/badge/Redux%20toolkit-000000?style=for-the-badge&logo=redux&logoColor=764ABC
 [Redux-toolkit-url]: https://redux-toolkit.js.org/
-[Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist-000000?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist-000000?style=for-the-badge&logo=redux&logoColor=764ABC
 [Redux-persist-url]: https://github.com/rt2zz/redux-persist
-[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor-EC5990
+[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990
 [React-hook-form-url]: https://react-hook-form.com/
 [Yup.com]: https://img.shields.io/badge/Yup-000000?style=for-the-badge
 [Yup-url]: https://github.com/jquense/yup
-[Mui.com]: https://img.shields.io/badge/Mui-000000?style=for-the-badge&logo=mui&logoColor-007FFF
+[Mui.com]: https://img.shields.io/badge/Mui-000000?style=for-the-badge&logo=mui&logoColor=007FFF
 [Mui-url]: https://mui.com/
-[Tailwindcss.com]: https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor-06B6D4
+[Tailwindcss.com]: https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4
 [Tailwindcss-url]: https://tailwindcss.com/
