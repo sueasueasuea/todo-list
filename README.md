@@ -151,17 +151,17 @@ Project Link: [https://github.com/sueasueasuea/todo-list](https://github.com/sue
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[React-redux.com]: https://img.shields.io/badge/Redux%20Redux?style=for-the-badge&logo=redux&logoColor-764ABC
+[React-redux.com]: https://img.shields.io/badge/React%20Redux-000000?style=for-the-badge&logo=redux&logoColor-764ABC
 [React-redux-url]: https://react-redux.js.org/
-[Redux-toolkit.com]: https://img.shields.io/badge/Redux%20toolkit?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-toolkit.com]: https://img.shields.io/badge/Redux%20toolkit-000000?style=for-the-badge&logo=redux&logoColor-764ABC
 [Redux-toolkit-url]: https://redux-toolkit.js.org/
-[Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist?style=for-the-badge&logo=redux&logoColor-764ABC
+[Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist-000000?style=for-the-badge&logo=redux&logoColor-764ABC
 [Redux-persist-url]: https://github.com/rt2zz/redux-persist
-[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form?style=for-the-badge&logo=reacthookform&logoColor-EC5990
+[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor-EC5990
 [React-hook-form-url]: https://react-hook-form.com/
-[Yup.com]: https://img.shields.io/badge/Yup?style=for-the-badge
+[Yup.com]: https://img.shields.io/badge/Yup-000000?style=for-the-badge
 [Yup-url]: https://github.com/jquense/yup
-[Mui.com]: https://img.shields.io/badge/Mui?style=for-the-badge&logo=mui&logoColor-007FFF
+[Mui.com]: https://img.shields.io/badge/Mui-000000?style=for-the-badge&logo=mui&logoColor-007FFF
 [Mui-url]: https://mui.com/
-[Tailwindcss.com]: https://img.shields.io/badge/Tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor-06B6D4
+[Tailwindcss.com]: https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor-06B6D4
 [Tailwindcss-url]: https://tailwindcss.com/
