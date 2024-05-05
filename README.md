@@ -174,7 +174,7 @@ Project Link: [https://github.com/sueasueasuea/todo-list](https://github.com/sue
 [Redux-toolkit-url]: https://redux-toolkit.js.org/
 [Redux-persist.com]: https://img.shields.io/badge/Redux%20Persist-000000?style=for-the-badge&logo=redux&logoColor=764ABC
 [Redux-persist-url]: https://github.com/rt2zz/redux-persist
-[React-hook-form.com]: https://img.shields.io/badge/Redux%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990
+[React-hook-form.com]: https://img.shields.io/badge/React%20Hook%20Form-000000?style=for-the-badge&logo=reacthookform&logoColor=EC5990
 [React-hook-form-url]: https://react-hook-form.com/
 [Yup.com]: https://img.shields.io/badge/Yup-000000?style=for-the-badge
 [Yup-url]: https://github.com/jquense/yup
