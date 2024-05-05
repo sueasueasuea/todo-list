@@ -47,7 +47,7 @@ const TaskSection = () => {
           </div>
 
           {todoList.map((task) => {
-            return <TaskCard id={task.id} task={task} />;
+            return <TaskCard key={task.id} id={task.id} task={task} />;
           })}
         </div>
       )}
@@ -62,7 +62,7 @@ const TaskSection = () => {
           </div>
 
           {doingList.map((task) => {
-            return <TaskCard id={task.id} task={task} />;
+            return <TaskCard key={task.id} id={task.id} task={task} />;
           })}
         </div>
       ) : null}
@@ -76,7 +76,7 @@ const TaskSection = () => {
           </div>
 
           {doneList.map((task) => {
-            return <TaskCard id={task.id} task={task} />;
+            return <TaskCard key={task.id} id={task.id} task={task} />;
           })}
         </div>
       )}
