@@ -48,7 +48,7 @@ const TodoInput = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)}>
+    <form onSubmit={() => handleSubmit(onSubmit)}>
       <div className="flex gap-4 justify-center w-full">
         <div className="flex flex-col gap-4">
           <TextField
