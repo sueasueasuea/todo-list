@@ -32,7 +32,8 @@ const TodoInput = () => {
     resolver: yupResolver(schema),
     context: { isAddDesc },
   });
-  const handleAddTask = (data: FormData) => {
+
+  const onSubmit = (data: FormData) => {
     dispatch(
       addTask({
         title: data.title,
@@ -43,12 +44,9 @@ const TodoInput = () => {
     reset(); // Reset the form
     setIsAddDesc(false); // Reset the add description flag
   };
-  const onSubmit = (data: FormData) => {
-    handleAddTask(data);
-  };
 
   return (
-    <form onSubmit={() => handleSubmit(onSubmit)}>
+    <form onSubmit={handleSubmit(onSubmit)}>
       <div className="flex gap-4 justify-center w-full">
         <div className="flex flex-col gap-4">
           <TextField
